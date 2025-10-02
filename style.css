@@ -1,0 +1,74 @@
+
+body {
+    background-color:#fc4639
+}
+
+h1 {
+    text-align: center;
+    font-size: 12px;
+  }
+
+h2 {
+    text-align: center;
+    font-size: 36px;
+  }
+
+  .center {
+    display: block;
+    margin: 0 auto;
+  }
+
+  .violet {
+    background-color: purple;
+    padding: 25px;
+    font-size: 72px;
+    text-align: center;
+    border: thin solid black;
+    color: white;
+  }
+  .button {
+   background-color: white;
+   border: 20px solid black;
+   color: black;
+   width: 200px;
+   padding: 20px;
+   text-align: center;
+   text-decoration: bold;
+   font-size: 36px;
+   margin: 4px 2px;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+.button2 {
+    background-color: white;
+    border: 5px solid black;
+    color: black;
+    border: 5px solid black;
+    font-family: 'Times New Roman', Times, serif;
+ }
+
+form {
+    max-width: 500px;
+    margin: 150px auto;
+  }
+  
+  fieldset {
+    padding: 30px;
+    border: 5px solid black;
+  }
+  
+  input,
+  textarea,
+  button {
+    width: 100%;
+    border: 5px solid black;
+  }
+
+.checkbox {
+  align: left;
+  width: 50px;
+  height: 50px; 
+  border: 5px solid black;
+}
