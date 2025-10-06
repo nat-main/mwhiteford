@@ -18,7 +18,7 @@ h2 {
     margin: 0 auto;
   }
 
-  .violet {
+  .name {
     font-style: bold;
     font-family:Arial, Helvetica, sans-serif
     padding: 25px;
@@ -27,6 +27,15 @@ h2 {
     border: thin solid black;
     color: white;
   }
+
+
+  .bio {
+    font-family:Arial, Helvetica, sans-serif
+    padding: 25px;
+    font-size: 12px;
+    text-align: center;
+  }
+
   .button {
    background-color: white;
    border: 20px solid black;
