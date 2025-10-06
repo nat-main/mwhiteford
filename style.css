@@ -1,6 +1,6 @@
 
 body {
-    background-color:#fc4639
+    background-color:white
 }
 
 h1 {
@@ -24,7 +24,7 @@ h2 {
     padding: 25px;
     font-size: 72px;
     text-align: center;
-    color: white;
+    color: blue;
   }
 
 
@@ -32,20 +32,20 @@ h2 {
     font-family:Arial, Helvetica, sans-serif;
     width: 600px;
     display: block;
-    text-align: center;
+    text-align: left;
     font-size: 12px;
-    text-align: center;
     margin-left: auto;
     margin-right: auto;
+    color: blue;
   }
 
   .button {
-   color: black;
-   width: 60px;
+   font-family:Arial, Helvetica, sans-serif;
+   color: blue;
    padding: 20px;
-   text-align: center;
-   text-decoration: bold;
-   font-size: 36px;
+   text-align: left;
+   font-size: 12px;
+   width: 600px;
    margin: 4px 2px;
    display: block;
    margin-left: auto;
